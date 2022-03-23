@@ -1,5 +1,5 @@
 # Voropaeva_Qa
-[Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/1x1qhCEO1nAiWnQ2gjDSbagNmUEAmBH3u/edit?usp=drivesdk&ouid=113654431622322985411&rtpof=true&sd=true)
+[Мои тест кейсы](https://docs.google.com/spreadsheets/d/1x1qhCEO1nAiWnQ2gjDSbagNmUEAmBH3u/edit?usp=drivesdk&ouid=113654431622322985411&rtpof=true&sd=true)
 
 ---
 
